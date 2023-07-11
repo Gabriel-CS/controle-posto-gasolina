@@ -1,0 +1,14 @@
+Crie um programa Java para um dono de posto de gasolina que quer registrar todos os seus clientes no
+sistema e gerir suas despesas e ganhos.
+
+O programa deve continuar registrando clientes até que o usuário queira finalizar o turno.
+
+Cada cliente deve ser identificado pela placa do seu carro e guardar todos os seus gastos nos três tipos
+de combustível: Gasolina, Alcool e Diesel.
+
+Os clientes poderão abastecer mais de uma vez e os gastos devem ser acumulados
+
+Cada tipo de combustível deve ter seu preço de aquisição e de revenda.
+
+Ao finalizar o programa o usuário deve receber um relatório contendo as despesas comprando o combustivel, o valor
+total de combustível vendido e o lucro recebido de cada tipo. Além de um relatório total de despesas, ganhos e lucro
